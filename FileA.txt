@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "This is file A Version 3-Master"
+=======
+"This is file A Version 3"
+>>>>>>> feature

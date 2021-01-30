@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "This is file B version 4-Master"
+=======
+"This is file B version 4-Feature Branch"
+>>>>>>> feature
