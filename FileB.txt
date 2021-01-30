@@ -1,1 +1,0 @@
-"This is file B version 5-Feature Branch for Squash merge"
